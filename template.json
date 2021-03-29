@@ -1,0 +1,19 @@
+{
+    "name":"",
+    "description":"",
+    "ship":"",
+    "modules":{
+        "highs":[],
+        "mids":[],
+        "lows":[],
+        "rigs":[]
+    },
+    "drones":[],
+    "implants":{
+        "required":[],
+        "recommended":[]
+    },
+    "drugs":[],
+    "ammo":[],
+    "refit":[]
+}

@@ -1,0 +1,62 @@
+{
+    "name":"Sleipnir - RLML",
+    "description":"Sleipnir with Rapid Lights",
+    "ship":"Sleipnir",
+    "modules":{
+        "highs":[
+            "Rapid Light Missile Launcher II",
+            "Rapid Light Missile Launcher II",
+            "720mm Howitzer Artillery II",
+            "720mm Howitzer Artillery II",
+            "720mm Howitzer Artillery II",
+            "720mm Howitzer Artillery II",
+            "720mm Howitzer Artillery II"
+        ],
+        "mids":[
+            "Multispectrum Shield Hardener II",
+            "Multispectrum Shield Hardener II",
+            "50MN Quad LiF Restrained Microwarpdrive",
+            "Republic Fleet Large Shield Extender",
+            "Republic Fleet Large Shield Extender"
+        ],
+        "lows":[
+            "Damage Control II",
+            "Power Diagnostic System II",
+            "Gyrostabilizer II",
+            "Gyrostabilizer II",
+            "Tracking Enhancer II"
+        ],
+        "rigs":[
+            "Medium Core Defense Field Extender II",
+            "Medium Core Defense Field Extender II"
+        ]
+    },
+    "drones":[
+        "Hornet EC-300 x5"
+    ],
+    "implants":{
+        "required":[
+            "Eifyr and Co. 'Rogue' Navigation NN-603 x1",
+            "Zor's Custom Navigation Hyper-Link x1"
+        ],
+        "recommended":[]
+    },
+    "drugs":[
+        "Synth Mindflood Booster x1",
+        "Standard Drop Booster x1",
+        "Agency 'Pyrolancea' DB5 Dose II x1",
+        "Quafe Zero x1"
+    ],
+    "ammo":[
+        "Republic Fleet Fusion M x1000",
+        "Republic Fleet EMP M x1000",
+        "Republic Fleet Phased Plasma M x1000",
+        "Republic Fleet Titanium Sabot M x1000",
+        "Caldari Navy Scourge Light Missile x500",
+        "Nanite Repair Paste x120"
+    ],
+    "refit":[
+        "Kinetic Shield Hardener II x1",
+        "Thermal Shield Hardener II x1"
+    ]
+}

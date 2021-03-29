@@ -1,0 +1,58 @@
+{
+    "name":"Hurricane - T2",
+    "description":"Non-Faction Hurricane with T2 guns",
+    "ship":"Hurricane",
+    "modules":{
+        "highs":[
+            "Drone Link Augmentor I",
+            "720mm Howitzer Artillery II",
+            "720mm Howitzer Artillery II",
+            "720mm Howitzer Artillery II",
+            "720mm Howitzer Artillery II",
+            "720mm Howitzer Artillery II",
+            "720mm Howitzer Artillery II"
+        ],
+        "mids":[
+            "Large Shield Extender II",
+            "Multispectrum Shield Hardener II",
+            "Multispectrum Shield Hardener II",
+            "50MN Cold-Gas Enduring Microwarpdrive"
+        ],
+        "lows":[
+            "Damage Control II",
+            "Gyrostabilizer II",
+            "Gyrostabilizer II",
+            "Reactor Control Unit II",
+            "Nanofiber Internal Structure II",
+            "Tracking Enhancer II"
+        ],
+        "rigs":[
+            "Medium EM Shield Reinforcer II",
+            "Medium Core Defense Field Extender II",
+            "Medium Core Defense Field Extender II"
+        ]
+    },
+    "drones":[
+        "Hornet EC-300 x8"
+    ],
+    "implants":{
+        "required":[],
+        "recommended":[]
+    },
+    "drugs":[
+        "Synth Mindflood Booster x1",
+        "Standard Drop Booster x1",
+        "Agency 'Pyrolancea' DB5 Dose II x1"
+    ],
+    "ammo":[
+        "Republic Fleet Fusion M x1000",
+        "Republic Fleet EMP M x1000",
+        "Republic Fleet Phased Plasma M x1000",
+        "Republic Fleet Titanium Sabot M x1000",
+        "Nanite Repair Paste x120"
+    ],
+    "refit":[
+        "Kinetic Shield Hardener II x1",
+        "Thermal Shield Hardener II x1"
+    ]
+}
